@@ -10,3 +10,6 @@ p{
 #main{
     color-interpolation-filters: linearRGB;
 }
+#my{
+    height:300px
+}
