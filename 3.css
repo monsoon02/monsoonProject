@@ -7,3 +7,6 @@
 p{
     color:#333;
 }
+#main{
+    color-interpolation-filters: linearRGB;
+}
